@@ -1,4 +1,6 @@
 # ticker.sh
+This repository forked from https://github.com/pstadler/ticker.sh  
+And I am modifing it to use at KS.
 
 > Real-time stock tickers from the command-line.
 
